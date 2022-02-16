@@ -43,6 +43,7 @@ body {
 .card-heading {
 	font-weight: 700;
 	color: var(--dark-blue);
+	font-size: 1.3rem;
 }
 
 .card-text {
